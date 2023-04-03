@@ -1,0 +1,12 @@
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\domain\bin\Debug\net6.0\domain.deps.json
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\domain\bin\Debug\net6.0\domain.dll
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\domain\bin\Debug\net6.0\ref\domain.dll
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\domain\bin\Debug\net6.0\domain.pdb
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\domain\obj\Debug\net6.0\domain.GlobalUsings.g.cs
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\domain\obj\Debug\net6.0\domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\domain\obj\Debug\net6.0\domain.AssemblyInfoInputs.cache
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\domain\obj\Debug\net6.0\domain.AssemblyInfo.cs
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\domain\obj\Debug\net6.0\domain.csproj.CoreCompileInputs.cache
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\domain\obj\Debug\net6.0\domain.dll
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\domain\obj\Debug\net6.0\ref\domain.dll
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\domain\obj\Debug\net6.0\domain.pdb
