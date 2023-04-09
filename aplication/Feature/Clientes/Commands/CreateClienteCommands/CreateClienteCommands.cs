@@ -17,4 +17,12 @@ namespace aplication.Feature.Clientes.Commands.CreateClienteCommands
         public string Email { get; set; }
         public string Direccion { get; set; }
     }
+    public class CreateClienteCommandHandler : IRequestHandler<CreateClienteCommands, Response<int>>
+    {
+        public Task<Response<int>> Handle(CreateClienteCommands request, CancellationToken cancellationToken)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
 }

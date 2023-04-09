@@ -22,7 +22,6 @@
     <Folder Include="Feature\Clientes\Querys\GetAllCliente\" />
     <Folder Include="Feature\Clientes\Querys\GetClienteById\" />
     <Folder Include="Filter\" />
-    <Folder Include="Interfaces\" />
     <Folder Include="Mapping\" />
 	  
   </ItemGroup>

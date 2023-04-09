@@ -15,7 +15,6 @@ C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Co
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\bin\Debug\net6.0\ref\aplication.dll
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\bin\Debug\net6.0\aplication.pdb
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\obj\Debug\net6.0\aplication.GlobalUsings.g.cs
-C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\obj\Debug\net6.0\aplication.csproj.AssemblyReference.cache
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\obj\Debug\net6.0\aplication.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\obj\Debug\net6.0\aplication.AssemblyInfoInputs.cache
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\obj\Debug\net6.0\aplication.AssemblyInfo.cs
@@ -23,3 +22,4 @@ C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Co
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\obj\Debug\net6.0\aplication.dll
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\obj\Debug\net6.0\ref\aplication.dll
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\obj\Debug\net6.0\aplication.pdb
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\obj\Debug\net6.0\aplication.csproj.AssemblyReference.cache

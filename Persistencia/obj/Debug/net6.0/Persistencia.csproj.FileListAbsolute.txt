@@ -11,3 +11,8 @@ C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Co
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\Persistencia\obj\Debug\net6.0\Persistencia.dll
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\Persistencia\obj\Debug\net6.0\ref\Persistencia.dll
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\Persistencia\obj\Debug\net6.0\Persistencia.pdb
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\Persistencia\bin\Debug\net6.0\aplication.dll
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\Persistencia\bin\Debug\net6.0\domain.dll
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\Persistencia\bin\Debug\net6.0\aplication.pdb
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\Persistencia\bin\Debug\net6.0\domain.pdb
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CopyComplete
