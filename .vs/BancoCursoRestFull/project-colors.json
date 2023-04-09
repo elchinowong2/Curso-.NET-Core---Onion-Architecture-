@@ -5,7 +5,32 @@
       "ProjectGuid": "1ba93ea9-3c3e-4699-bb80-aaecbbd47107",
       "DisplayName": "aplication",
       "ColorIndex": 0
+    },
+    "71668de8-3cfa-4276-a7fe-44c8ce09ed68": {
+      "ProjectGuid": "71668de8-3cfa-4276-a7fe-44c8ce09ed68",
+      "DisplayName": "domain",
+      "ColorIndex": 1
+    },
+    "2157ec48-b229-4baf-9808-b864634ffe1f": {
+      "ProjectGuid": "2157ec48-b229-4baf-9808-b864634ffe1f",
+      "DisplayName": "Persistencia",
+      "ColorIndex": 2
+    },
+    "d172ab76-9f5b-4c31-8d67-2c2a22797a26": {
+      "ProjectGuid": "d172ab76-9f5b-4c31-8d67-2c2a22797a26",
+      "DisplayName": "shared",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f41093fb-61ca-49f8-9917-045cef667f77": {
+      "ProjectGuid": "f41093fb-61ca-49f8-9917-045cef667f77",
+      "DisplayName": "webApi",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 5
 }
