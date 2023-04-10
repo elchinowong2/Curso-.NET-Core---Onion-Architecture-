@@ -21,6 +21,7 @@ namespace Persistencia
                 b => b.MigrationsAssembly(typeof(applicationDbContext).Assembly.FullName)));
 
             services.AddTransient(typeof(IRepositoriAsync<>), typeof(MyRepositoryAsync<>));
+            
         }
     }
 }

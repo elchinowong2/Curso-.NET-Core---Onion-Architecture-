@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -14,7 +15,7 @@ namespace Persistencia.Context
     {
         public DbSet<Cliente> Clientes { get; set; }
         private readonly iDateTimeServices _dateTime;
-        protected applicationDbContext(DbContextOptions<applicationDbContext> options, iDateTimeServices dateTime) 
+        protected applicationDbContext(DbContextOptions<applicationDbContext> options, iDateTimeServices dateTime) : base(options)
         {
             ChangeTracker.QueryTrackingBehavior = QueryTrackingBehavior.NoTracking;
             _dateTime = dateTime;
@@ -37,7 +38,9 @@ namespace Persistencia.Context
             }
             return base.SaveChangesAsync(cancellationToken);
         }
-
-
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+        }
     }
 }

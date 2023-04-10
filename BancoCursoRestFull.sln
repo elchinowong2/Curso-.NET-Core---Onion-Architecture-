@@ -9,15 +9,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestructure", "Infraest
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{3CC51182-1BF6-4214-B221-F0A24AFA64B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aplication", "aplication\aplication.csproj", "{1BA93EA9-3C3E-4699-BB80-AAECBBD47107}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aplication", "aplication\aplication.csproj", "{1BA93EA9-3C3E-4699-BB80-AAECBBD47107}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "domain", "domain\domain.csproj", "{71668DE8-3CFA-4276-A7FE-44C8CE09ED68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "domain", "domain\domain.csproj", "{71668DE8-3CFA-4276-A7FE-44C8CE09ED68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{2157EC48-B229-4BAF-9808-B864634FFE1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "Persistencia\Persistence.csproj", "{2157EC48-B229-4BAF-9808-B864634FFE1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shared", "shared\shared.csproj", "{D172AB76-9F5B-4C31-8D67-2C2A22797A26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shared", "shared\shared.csproj", "{D172AB76-9F5B-4C31-8D67-2C2A22797A26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webApi", "webApi\webApi.csproj", "{F41093FB-61CA-49F8-9917-045CEF667F77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webApi", "webApi\webApi.csproj", "{F41093FB-61CA-49F8-9917-045CEF667F77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -67,6 +67,12 @@
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[11.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
             }
           },
           "imports": [
@@ -142,12 +148,12 @@
         }
       }
     },
-    "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\Persistencia\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\Persistencia\\Persistencia.csproj",
-        "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\Persistencia\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\Persistencia\\Persistence.csproj",
         "packagesPath": "C:\\Users\\thewo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
@@ -248,8 +254,8 @@
               "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\aplication\\aplication.csproj": {
                 "projectPath": "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\aplication\\aplication.csproj"
               },
-              "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\Persistencia\\Persistencia.csproj"
+              "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\Persistencia\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\Persistencia\\Persistence.csproj"
               }
             }
           }
@@ -267,6 +273,12 @@
             "MediatR": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

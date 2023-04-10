@@ -3420,9 +3420,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\Persistencia\\Persistencia.csproj",
-      "projectName": "Persistencia",
-      "projectPath": "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\Persistencia\\Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\Persistencia\\Persistence.csproj",
+      "projectName": "Persistence",
+      "projectPath": "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\Persistencia\\Persistence.csproj",
       "packagesPath": "C:\\Users\\thewo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\thewo\\OneDrive\\Documentos\\Orlando Wong\\BancoCursoRestFull\\Curso-.NET-Core---Onion-Architecture-\\Persistencia\\obj\\",
       "projectStyle": "PackageReference",
