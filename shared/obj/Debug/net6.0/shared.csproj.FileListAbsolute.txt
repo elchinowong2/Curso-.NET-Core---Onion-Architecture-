@@ -10,4 +10,3 @@ C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Co
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\shared\obj\Debug\net6.0\shared.dll
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\shared\obj\Debug\net6.0\ref\shared.dll
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\shared\obj\Debug\net6.0\shared.pdb
-C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\shared\obj\Debug\net6.0\shared.csproj.AssemblyReference.cache

@@ -10,10 +10,11 @@ IConfiguration configuration = new ConfigurationBuilder()
        .Build();
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
 builder.Services.AddApplicationLayer();
 builder.Services.AddPersistenceInfraestructure(configuration);
+
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 
 

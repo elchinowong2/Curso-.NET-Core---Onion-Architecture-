@@ -17,7 +17,9 @@ namespace aplication.Behavius
             _validators = validators;
         }
 
-        public async Task<tresponse> Handle(trequest request, RequestHandlerDelegate<tresponse> next, CancellationToken cancellationToken)
+      
+
+        public async Task<tresponse> Handle(trequest request, CancellationToken cancellationToken, RequestHandlerDelegate<tresponse> next)
         {
             if (_validators.Any())
             {
@@ -25,9 +27,9 @@ namespace aplication.Behavius
                 var context = new FluentValidation.ValidationContext<trequest>(request);
                 var validatorResultar = await Task.WhenAll(_validators.Select(v => v.ValidateAsync(context, cancellationToken)));
                 var failures = validatorResultar.SelectMany(r => r.Errors).Where(f => f != null).ToList();
-                if (failures.Count() > 0) 
+                if (failures.Count() > 0)
                 {
-                    throw new Exception.ValidacionesExcepciones(failures);         
+                    throw new Exception.ValidacionesExcepciones(failures);
                 }
             }
             return await next();

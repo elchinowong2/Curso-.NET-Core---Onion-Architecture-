@@ -11,6 +11,7 @@ C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\aplication\ob
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\aplication\obj\Debug\net6.0\ref\aplication.dll
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\aplication\obj\Debug\net6.0\aplication.pdb
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\bin\Debug\net6.0\aplication.deps.json
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\bin\Debug\net6.0\aplication.runtimeconfig.json
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\bin\Debug\net6.0\aplication.dll
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\bin\Debug\net6.0\ref\aplication.dll
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\bin\Debug\net6.0\aplication.pdb
@@ -22,5 +23,5 @@ C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Co
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\obj\Debug\net6.0\aplication.dll
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\obj\Debug\net6.0\ref\aplication.dll
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\obj\Debug\net6.0\aplication.pdb
-C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\bin\Debug\net6.0\aplication.runtimeconfig.json
 C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\obj\Debug\net6.0\aplication.genruntimeconfig.cache
+C:\Users\thewo\OneDrive\Documentos\Orlando Wong\BancoCursoRestFull\Curso-.NET-Core---Onion-Architecture-\aplication\obj\Debug\net6.0\aplication.csproj.AssemblyReference.cache

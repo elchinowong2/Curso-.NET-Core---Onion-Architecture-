@@ -13,15 +13,15 @@ namespace Persistencia.Context
 {
     public class applicationDbContext : DbContext
     {
-        public DbSet<Cliente> Clientes { get; set; }
+       
         private readonly iDateTimeServices _dateTime;
-        protected applicationDbContext(DbContextOptions<applicationDbContext> options, iDateTimeServices dateTime) : base(options)
+        public applicationDbContext(DbContextOptions<applicationDbContext> options, iDateTimeServices dateTime) : base(options)
         {
             ChangeTracker.QueryTrackingBehavior = QueryTrackingBehavior.NoTracking;
             _dateTime = dateTime;
         }
 
-
+        public DbSet<Cliente> Clientes { get; set; }
         public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = new CancellationToken())
         {
             foreach (var entity in ChangeTracker.Entries<AuditableBaseEntity>())
